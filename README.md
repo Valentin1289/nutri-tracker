@@ -81,7 +81,7 @@ In the diary page the user can see his progress in completing daily goal food an
 
 ## Code Contributors
 
-<a href="https://github.com/Valentin1289/nutri-tracker/graphs/contributors">
+<a href="https://github.com/Valentin1289/nutri-tracker/graphs/contributors">See contributors here</a>
 Baiacof Gheorghe-Valentin: https://github.com/Valentin1289
 Gâlcă Marian: https://github.com/marianglc
 Țeca Matei: https://github.com/matei-teca
