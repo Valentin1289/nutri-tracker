@@ -63,8 +63,24 @@ Our plans for the future of NutriTraker:
 
 ### How to Use
 
-- Search for products by name or barcode to view nutrient information.
-- Users can set goals after registering for personalized nutritional information.
+NutriTraker provides a user-friendly experience with the following key features:
+
+1. **Product Search**:
+   - Easily find products by searching using their name or barcode, and get detailed nutrient information.
+   - No need to log in or sign up for this feature.
+   ![Product Search](image-1.png)
+
+2. **Registration and Goal Setting**:
+   - After registration, personalize your profile.
+   - Set your goals, and NutriTraker's calculator will recommend the ideal calorie and nutrient intake for you.
+   ![Registration and Goal Setting](image-2.png)
+
+3. **Diary Page**:
+   - The diary page helps you track your daily progress toward your food goals.
+   - Monitor how many calories and nutrients you've consumed, and see how much you have left to achieve your daily goal.
+   - Access and customize records from previous days.
+   ![Diary Page](image-3.png)
+
 
 ## Code Contributors
 
