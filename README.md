@@ -70,3 +70,13 @@ We used Express.js to accelerate JavaScript application development, creating th
      ```
    - Click on the link provided in the terminal to open the page and experience NutriTraker!
 
+### How to use
+
+You can search for product by a name or by their barcode and you will receive their nutrients even without to login/ or signin
+![Alt text](image-1.png)
+After a user will register he can upload in his profile his status and set a goal, then the calculator will tell how many calories and other nutrients that user should consume.
+![Alt text](image-2.png)
+In the diary page the user can see his progress in completing daily goal food and how much he has left to consume.Also he can access and customize his previous days.
+![Alt text](image-3.png)
+
+

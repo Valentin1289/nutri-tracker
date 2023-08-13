@@ -6,7 +6,7 @@ const User = require("./models/User");
 const Product = require("./models/Product");
 
 mongoose.connect(
-  "mongodb+srv://ceitreifantastici:0NVszPuND0ww7Duv@cluster0.ajojypi.mongodb.net/Users"
+  "mongodb+srv://ceitreifantastici:Ceitreifantastici@cluster0.ajojypi.mongodb.net/Users"
 );
 
 app
