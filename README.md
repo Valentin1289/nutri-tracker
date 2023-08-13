@@ -79,4 +79,9 @@ After a user will register he can upload in his profile his status and set a goa
 In the diary page the user can see his progress in completing daily goal food and how much he has left to consume.Also he can access and customize his previous days.
 ![Alt text](image-3.png)
 
+## Code Contributors
+
+Baiacof Gheorghe-Valentin: https://github.com/Valentin1289
+Gâlcă Marian: https://github.com/marianglc
+Țeca Matei: https://github.com/matei-teca
 
